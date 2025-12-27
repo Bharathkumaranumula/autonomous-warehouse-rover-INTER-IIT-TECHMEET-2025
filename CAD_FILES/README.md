@@ -1,7 +1,7 @@
 
-# ETERNAL Robotic Lifting System - CAD Files Folder
+# CAD Files Folder
 
-**Project:** ETERNAL Mechanism  
+**Project:**Autonomous Rover for Warehouse Rack Inventory Management
 **Type:** Robotic Lifting & Mobility System  
 **File Format:** STEP (.step)
 
@@ -9,7 +9,7 @@
 
 ##  Overview
 
-The **ETERNAL mechanism** is a robotic lifting and mobility system designed around a scissor mechanism mounted onto a mobile chassis. The system integrates vertical motion through a Z-axis actuator, real-time sensing through an Intel RealSense D455i camera, and wheel-based locomotion.
+This is a robotic lifting and mobility system designed around a scissor mechanism mounted onto a mobile chassis. The system integrates vertical motion through a Z-axis actuator, real-time sensing through an Intel RealSense D455i camera, and wheel-based locomotion.
 
 This repository contains the STEP files required to view, analyze, or manufacture the mechanical assembly.
 
